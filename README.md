@@ -19,3 +19,4 @@ This directory contains cleaned data, summary tables, figures, and a minimal man
 
 - Sectors are normalized to a canonical taxonomy (Multifamily → Residential; Fulfillment/Delivery → Logistics; Parking/Access Control → Commercial; finance-related sectors → FinTech).
 - Investor attribution splits round capital equally across listed lead investors after cleaning aliases and removing placeholders.
+- "Lead Investors" is a catch-all for all investors who participated in venture rounds -- true leads are not distinguished in this analysis.
